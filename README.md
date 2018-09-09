@@ -7,3 +7,5 @@ Simply run it and press Update button.
 How it work ?
 It goes on the CCleaner download page and it fetch sur download url by using the "download" button.
 Then it use the download URL to download the latest version and install it in silent mode.
+
+This program require Java
